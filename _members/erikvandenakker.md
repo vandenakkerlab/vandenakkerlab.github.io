@@ -8,9 +8,7 @@ aliases:
   - E.B. van den Akker
   - evda
 links:
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-7693-0728
   email: e.b.van_den_akker@lumc.nl
-  twitter: 0000-0002-7693-0728
+  twitter: erikvandenakker
 ---
-
-Research interests: Clonal Hematopoiesis
