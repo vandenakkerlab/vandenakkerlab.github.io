@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Van den Akker Lab @ Leiden University Meddical Center
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Van den Akker Lab @ Leiden University Medical Center
+description: Computational Biology with applications in hematologic (pre-)malignancies and immuno-hematology
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
