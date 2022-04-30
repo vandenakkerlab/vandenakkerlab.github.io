@@ -4,8 +4,9 @@ image: images/evda.jpg
 description: Data Enthousiast
 role: pi
 aliases:
-  - erikvandenakker
+  - Erik Ben van den Akker
   - E.B. van den Akker
+  - erikvandenakker
   - evda
 links:
   orcid: 0000-0002-7693-0728
