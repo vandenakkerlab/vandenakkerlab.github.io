@@ -1,6 +1,6 @@
 ---
 name: Onur Karakaslar
-image: images/eonurkara.jpg
+image: images/eonurkar.jpg
 description: Computational Biologist
 role: phd
 aliases:
