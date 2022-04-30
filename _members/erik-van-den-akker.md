@@ -11,6 +11,5 @@ aliases:
 links:
   orcid: 0000-0002-7693-0728
   email: e.b.van_den_akker@lumc.nl
-  twitter: erikvandenakker 
-  
+  twitter: erikvandenakker
 ---
