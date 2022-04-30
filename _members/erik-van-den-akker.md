@@ -1,7 +1,7 @@
 ---
 name: Erik van den Akker
 image: images/evda.jpg
-description: Principle Investigator
+description: Computational Biologist
 role: pi
 aliases:
   - Erik Ben van den Akker
@@ -12,3 +12,5 @@ links:
   email: e.b.van_den_akker@lumc.nl
   twitter: erikvandenakker
 ---
+
+more stuff here
