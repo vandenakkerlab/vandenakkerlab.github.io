@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our lab fosters multidisciplinary and collaborative research. It is so much more fun to do research in diverse teams with diverse expertises! As a result, our team embeds a group of highly engaged researchers from various research groups with a broad range of equally cherised skills.
+Our lab fosters multi-disciplinary and collaborative research. It is so much more fun and rewarding to do research in diverse teams with diverse expertises! As a result, our team embeds a group of highly engaged researchers from various research groups with a broad range of equally-cherised skills.
 
 {% include section.html %}
 
