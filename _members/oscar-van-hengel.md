@@ -1,7 +1,7 @@
 ---
 name: Oscar van Hengel
-image: images/db.jpg
-description: Wet-lab dry-lab enthusiast
+image: images/ovh.jpg
+description: wet-lab dry-lab (with Hermelijn Smits)
 role: phd
 aliases:
   - O.R.J. van Hengel
