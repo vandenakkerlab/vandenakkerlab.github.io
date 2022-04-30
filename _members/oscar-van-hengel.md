@@ -1,6 +1,6 @@
 ---
 name: Oscar van Hengel
-image: images/db.jpg
+image: images/ovh.jpg
 description: Wet-lab dry-lab enthusiast
 role: phd
 aliases:
