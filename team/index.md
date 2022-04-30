@@ -37,6 +37,19 @@ Our lab fosters multi-disciplinary and collaborative research. It is so much mor
 %}
 {:.center}
 
+#### Alumni  
+
+{% include section.html %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="group: alum"
+%}
+
+{:.center}
+
 ## Funding
 
 Our work is made possible by funding from several organizations.
