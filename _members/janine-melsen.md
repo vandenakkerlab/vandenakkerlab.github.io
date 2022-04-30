@@ -1,7 +1,7 @@
 ---
 name: Janine Melsen
 image: images/jmel.jpg
-description: wet-lab dry-lab NK cell enthousiast
+description: wet-lab dry-lab; NK cell enthousiast
 role: phd
 aliases:
   - J. Melsen

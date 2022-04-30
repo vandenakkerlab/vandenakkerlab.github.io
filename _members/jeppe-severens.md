@@ -1,7 +1,7 @@
 ---
 name: Jeppe Severens
 image: images/jsev.jpg
-description: Computational Biologist LCCO | AML project
+description: Computational Biologist
 role: phd
 aliases:
   - J. Severens
