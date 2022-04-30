@@ -2,6 +2,7 @@
 name: Erik van den Akker
 image: images/evda.jpg
 description: Principle Investigator
+role: pi
 aliases:
   - Erik Ben van den Akker
   - E.B. van den Akker
