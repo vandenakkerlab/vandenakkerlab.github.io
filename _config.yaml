@@ -10,12 +10,10 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
+  email: e.b.van_den_akker@lumc.nl
+  google-scholar: Erik van den Akker
   github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  twitter: erikvandenakker
 
 ### advanced settings
 
