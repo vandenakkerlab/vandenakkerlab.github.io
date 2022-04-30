@@ -3,9 +3,27 @@ title: Team
 nav:
   order: 3
   tooltip: About our team
+redirect_from:
+  - /lab-members
+  - /alums
+  - /staff
+  - /trainees
 ---
 
 # <i class="fas fa-users"></i>Team
+
+Our lab is made up of a highly engaged and collaborative team of researchers.
+We recognize that diverse teams do better research.
+We foster an environment where team members are treated equally, and where we respect and admire our differences.
+The team includes postdocs, students at all levels, staff, and our lab mascots.
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
+
+{% include section.html dark=true %}
 
 Our lab fosters multi-disciplinary and collaborative research. It is so much more fun and rewarding to do research in diverse teams with diverse expertises! As a result, our team embeds a group of highly engaged researchers from various research groups with a broad range of equally-cherised skills.
 
