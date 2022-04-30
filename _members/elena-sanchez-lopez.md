@@ -2,7 +2,7 @@
 name: Elena Sanchez Lopez
 image: images/elsanlop.jpg
 description: Mass Spec specialist (with Martin Giera)
-role: phd
+role: postdoc
 aliases:
   - E. Sanchez-Lopez
 links:
