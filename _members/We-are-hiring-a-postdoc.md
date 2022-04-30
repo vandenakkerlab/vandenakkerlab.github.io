@@ -1,5 +1,5 @@
 ---
-name: We are hiring!
+name: We are hiring a Postdoc!
 image: images/member.jpg
 description: Expert in NGS & Single-cell computations
 role: postdoc
