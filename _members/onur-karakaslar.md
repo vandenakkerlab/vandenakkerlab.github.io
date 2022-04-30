@@ -1,7 +1,7 @@
 ---
 name: Onur Karakaslar
 image: images/eonurkara.jpg
-description: PhD Candidate LCCO | AML
+description: Computational Biologist
 role: phd
 aliases:
   - E. O. Karakaslar
