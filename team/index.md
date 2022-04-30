@@ -44,6 +44,7 @@ Our lab fosters multi-disciplinary and collaborative research. It is so much mor
 {%
   include list.html
   data="members"
+  component="portrait"
   filters="group: alum"
 %}
 
