@@ -12,5 +12,3 @@ links:
   email: e.b.van_den_akker@lumc.nl
   twitter: erikvandenakker
 ---
-
-more stuff here
