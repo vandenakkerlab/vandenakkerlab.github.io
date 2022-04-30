@@ -37,18 +37,16 @@ Our lab fosters multi-disciplinary and collaborative research. It is so much mor
 %}
 {:.center}
 
-### Alumni  
+## Alumni
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% include section.html %}
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="group: alum"
-%}
-
-{:.center}
 
 ## Funding
 
