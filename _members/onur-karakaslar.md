@@ -1,7 +1,7 @@
 ---
 name: Onur Karakaslar
 image: images/eonurkara.jpg
-description: PhD Candidate LCCO|AML
+description: PhD Candidate LCCO | AML
 role: phd
 aliases:
   - E. O. Karakaslar
