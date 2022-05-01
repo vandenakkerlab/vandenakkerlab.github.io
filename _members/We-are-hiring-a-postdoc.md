@@ -1,6 +1,6 @@
 ---
 name: We are hiring a Postdoc!
-image: images/member.jpg
+image: 
 description: Expert in NGS & Single-cell computations
 role: postdoc
 aliases:

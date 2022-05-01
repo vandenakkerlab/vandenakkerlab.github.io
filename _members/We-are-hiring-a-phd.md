@@ -1,6 +1,6 @@
 ---
 name: We are hiring a PhD!
-image: images/member.jpg
+image: 
 description: Expert in NGS & Single-cell computations
 role: phd
 aliases:
