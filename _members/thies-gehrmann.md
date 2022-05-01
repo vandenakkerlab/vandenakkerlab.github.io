@@ -1,7 +1,7 @@
 ---
 name: Thies Gehrmann
 image: images/tg.jpg
-description: Computational Biologist (with Max Planck Cologne)
+description: Postdoc 2017-2020
 role: postdoc
 group: alum
 aliases:
