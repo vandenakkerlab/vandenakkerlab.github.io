@@ -1,6 +1,6 @@
 ---
 name: Huub van der Ent
-image: images/huubvaanderent.jpg
+image: images/huubvanderent.jpg
 description: BSc 2021
 role: undergrad
 group: alum
