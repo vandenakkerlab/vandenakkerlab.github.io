@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Van den Akker Lab
 description: Computational Biology with applications in hematologic (pre-)malignancies and immuno-hematology
-logo: images/logo.svg
+logo: images/logo.jpeg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
