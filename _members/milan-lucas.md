@@ -1,6 +1,6 @@
 ---
 name: Milan Lucas
-image: images/member.jpg
+image: images/MilanLucas.jpeg
 description: Trainee
 role: undergrad
 aliases:
