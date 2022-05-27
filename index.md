@@ -4,5 +4,8 @@ title: Home
 
 # Welcome to the van den Akker Lab
 
-
-{% include feature.html image="images/test.jpeg" width="200" %}
+{% 
+  include figure.html 
+  image="images/welcome.png" 
+  width="100%" 
+%}
